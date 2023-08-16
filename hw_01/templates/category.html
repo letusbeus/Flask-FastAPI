@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Category: {{ category_name }}</h2>
+    <ul style="list-style-type: none">
+        {% for product in products %}
+            <li><a href="/product/{{ product.name }}">{{ product.name }}</a> - {{ product.price }} usd.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
