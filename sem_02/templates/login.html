@@ -1,0 +1,27 @@
+{% extends 'index.html' %}
+
+{% block title %}
+    login &amp; password
+{% endblock %}
+
+{% block content %}
+    <form method="post" enctype="multipart/form-data">
+        <div>
+            <label for="log">Login
+                <input type="text"
+                       placeholder="Please enter your login: "
+                       id="login"
+                       name="login">
+                </input>
+            </label>
+            <label for="pass">Password
+                <input type="password"
+                       placeholder="Please enter your password: "
+                       id="password"
+                       name="password">
+                </input>
+            </label>
+        </div>
+    <button type="submit">Log in</button>
+    </form>
+{% endblock %}
