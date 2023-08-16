@@ -1,0 +1,1 @@
+To watch the video tutorial follow the link:</br>[Seminar 3. Additional Flask features](https://gbcdn.mrgcdn.ru/uploads/record/270185/attachment/b1977572277b2144b8753ed5c7163a0f.mp4)
