@@ -1,0 +1,1 @@
+To watch the video tutorial follow the link:</br>[Lecture 6. Additional FastAPI features](https://gbcdn.mrgcdn.ru/uploads/record/256440/attachment/80263a78359854a99b1e4db45fbd5ece.mp4)
